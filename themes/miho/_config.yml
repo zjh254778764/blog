@@ -42,11 +42,11 @@ menu:
 social:
   home:
     title: 带发修行
-    url: //xxx.com
+    url: //ichedan.online
     target: true
   github:
     title: Github
-    url: //github.com/wongminho
+    url: //github.com/zjh254778764
     target: true
   weibo:
     title: Weibo
@@ -107,7 +107,19 @@ reward:
 changyan_appid: false
 changyan_appkey: false
 # 友言，输入id
-youyan_id: false
+youyan_id: true
+valine:
+    enable: true
+    appId: UBszooxHqVDNx6TdJeTN4Jtc-gzGzoHsz
+    appKey: Qo8Cm3yIe9dqRnNC9Y1BSPFF
+    notify: false
+    verify: false
+    avatar: mp
+    placeholder: 提示文字
+    guest_info: nick,mail,link
+    pageSize: 10
+    lang: zh-cn
+
 # disqus
 disqus: false
 # gitment  https://github.com/imsun/gitment
@@ -134,4 +146,4 @@ access_counter:
   site_pv: 总访问量：
 
 # Copyright Information | 版权信息
-copyright: 2018 MinHow
+copyright: 2018 跳河前七天
